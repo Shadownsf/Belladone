@@ -1,8 +1,8 @@
 {
-  "name": "material-kit-react",
+  "name": "Belladone",
   "version": "1.7.0",
   "homepage": "http://Shadownsf.github.io/Belladone",
-  "description": "Material Kit React. Coded by Creative Tim",
+  "description": "Belladone Website",
   "private": true,
   "main": "dist/index.js",
   "dependencies": {
