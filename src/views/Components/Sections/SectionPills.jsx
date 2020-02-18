@@ -32,9 +32,7 @@ class SectionPills extends React.Component {
               <h2>Prochain événement</h2>
             </div>
             <div className={classes.title}>
-              <h3>
-                <medium>01/01/2020</medium>
-              </h3>
+              <h3>01/01/2020</h3>
               <div className="slick-caption">
                 <h4>
                   <LocationOn className="slick-icons" />
@@ -146,7 +144,7 @@ class SectionPills extends React.Component {
 
             <div className={classes.title}>
               <h3>
-                <medium>01/01/2020</medium>
+                01/01/2020
                 <br />
                 <small>Belladone - 11 rue de chez oim</small>
               </h3>
@@ -245,7 +243,7 @@ class SectionPills extends React.Component {
 
             <div className={classes.title}>
               <h3>
-                <medium>01/01/2020</medium>
+                01/01/2020
                 <br />
                 <small>Belladone - 11 rue de chez oim</small>
               </h3>
