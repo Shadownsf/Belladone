@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Belladone/static/css/main.0a628a0a.chunk.css",
-    "main.js": "/Belladone/static/js/main.4b7e18f3.chunk.js",
-    "main.js.map": "/Belladone/static/js/main.4b7e18f3.chunk.js.map",
+    "main.js": "/Belladone/static/js/main.c95d1725.chunk.js",
+    "main.js.map": "/Belladone/static/js/main.c95d1725.chunk.js.map",
     "runtime~main.js": "/Belladone/static/js/runtime~main.a5cab59d.js",
     "runtime~main.js.map": "/Belladone/static/js/runtime~main.a5cab59d.js.map",
     "static/js/2.69c8d57e.chunk.js": "/Belladone/static/js/2.69c8d57e.chunk.js",
     "static/js/2.69c8d57e.chunk.js.map": "/Belladone/static/js/2.69c8d57e.chunk.js.map",
     "index.html": "/Belladone/index.html",
-    "precache-manifest.49200c5a9b12f67340dcddd6164ca4c8.js": "/Belladone/precache-manifest.49200c5a9b12f67340dcddd6164ca4c8.js",
+    "precache-manifest.4002ec3b27c041b151fc27a5a2aa3c8d.js": "/Belladone/precache-manifest.4002ec3b27c041b151fc27a5a2aa3c8d.js",
     "service-worker.js": "/Belladone/service-worker.js",
     "static/css/main.0a628a0a.chunk.css.map": "/Belladone/static/css/main.0a628a0a.chunk.css.map",
     "static/media/Logobelladone.png": "/Belladone/static/media/Logobelladone.65d2bcf2.png",

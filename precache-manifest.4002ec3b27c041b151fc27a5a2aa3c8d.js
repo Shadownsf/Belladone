@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e13604f04162717aa749cc40f1d8a74b",
+    "revision": "a44caa3af2ce837362feb67d02460b4a",
     "url": "/Belladone/index.html"
   },
   {
-    "revision": "5b7f9ffcf4a223246056",
+    "revision": "0cd012ee7dad737d0015",
     "url": "/Belladone/static/css/main.0a628a0a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Belladone/static/js/2.69c8d57e.chunk.js"
   },
   {
-    "revision": "5b7f9ffcf4a223246056",
-    "url": "/Belladone/static/js/main.4b7e18f3.chunk.js"
+    "revision": "0cd012ee7dad737d0015",
+    "url": "/Belladone/static/js/main.c95d1725.chunk.js"
   },
   {
     "revision": "a2587b2b48f777814e66",

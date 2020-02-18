@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Belladone/precache-manifest.49200c5a9b12f67340dcddd6164ca4c8.js"
+  "/Belladone/precache-manifest.4002ec3b27c041b151fc27a5a2aa3c8d.js"
 );
 
 self.addEventListener('message', (event) => {
